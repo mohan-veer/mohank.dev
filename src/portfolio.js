@@ -56,7 +56,7 @@ const skillsSection = {
     ),
     emoji("⚡ Design and implement scalable systems that ensure reliability and performance while accommodating future growth."),
     emoji(
-      "⚡ Integrate third-party services such as AWS and MuleSoft to extend functionality and enhance system interoperability."
+      "⚡ Integrate third-party services such as AWS to extend functionality and enhance system interoperability."
     )
   ],
 
@@ -162,7 +162,7 @@ const techStack = {
   experience: [
     {
       Stack: "Backend", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      progressPercentage: "95%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Machine Learning and Natural Language Processing",
@@ -170,11 +170,11 @@ const techStack = {
     },
     {
       Stack: "Front end",
-      progressPercentage: "60%"
+      progressPercentage: "70%"
     },
     {
-      Stack: "Programming",
-      progressPercentage: "80%"
+      Stack: "Databases (MySQL, PostgreSQL, MongoDB)",
+      progressPercentage: "90%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
