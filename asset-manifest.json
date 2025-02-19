@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/mohank.dev/static/css/main.0bf9e332.css",
+    "main.js": "/mohank.dev/static/js/main.275cdb77.js",
+    "static/css/64.bba8fa55.chunk.css": "/mohank.dev/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.1c0be072.chunk.js": "/mohank.dev/static/js/64.1c0be072.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/mohank.dev/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.5bed6b98.chunk.js": "/mohank.dev/static/js/769.5bed6b98.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/mohank.dev/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Q2LeaderChoice.png": "/mohank.dev/static/media/Q2LeaderChoice.3072732d8aba0115e8fc.png",
+    "static/media/PD-1.png": "/mohank.dev/static/media/PD-1.c9921fd34213d984e79b.png",
+    "static/media/eyeEarImage.png": "/mohank.dev/static/media/eyeEarImage.6a6f0db35ee6e75c65c4.png",
+    "static/media/Agustina.woff": "/mohank.dev/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/faap.png": "/mohank.dev/static/media/faap.e389de27f5fc5c5a3be7.png",
+    "static/media/Q2Community.png": "/mohank.dev/static/media/Q2Community.877959115d322808022b.png",
+    "static/media/iitBombay.jpg": "/mohank.dev/static/media/iitBombay.119520f8145764709748.jpg",
+    "static/media/summary.png": "/mohank.dev/static/media/summary.56b3f2a3f6a552edf022.png",
+    "static/media/manOnTable.svg": "/mohank.dev/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/mohank.dev/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/mohank.dev/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/vision.png": "/mohank.dev/static/media/vision.8b702add12c7ebacabb5.png",
+    "static/media/skill.svg": "/mohank.dev/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/mohank.dev/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/mohank.dev/index.html",
+    "static/media/talksCardBack.svg": "/mohank.dev/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.0bf9e332.css.map": "/mohank.dev/static/css/main.0bf9e332.css.map",
+    "main.275cdb77.js.map": "/mohank.dev/static/js/main.275cdb77.js.map",
+    "64.bba8fa55.chunk.css.map": "/mohank.dev/static/css/64.bba8fa55.chunk.css.map",
+    "64.1c0be072.chunk.js.map": "/mohank.dev/static/js/64.1c0be072.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/mohank.dev/static/css/769.b3cbb36b.chunk.css.map",
+    "769.5bed6b98.chunk.js.map": "/mohank.dev/static/js/769.5bed6b98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf9e332.css",
+    "static/js/main.275cdb77.js"
+  ]
+}
